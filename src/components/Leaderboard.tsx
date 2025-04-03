@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import leaderboardData from "../../data/LeaderboardData.json";
+import leaderboardData from "../../data/TismScores.json";
 
 interface LeaderboardEntry {
   name: string;

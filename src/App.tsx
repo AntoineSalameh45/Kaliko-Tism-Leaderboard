@@ -1,6 +1,6 @@
 import './App.css'
 import Leaderboard from './components/Leaderboard'
-import leaderboardData from "../data/LeaderboardData.json";
+import leaderboardData from "../data/TismScores.json";
 import TopThree from './components/TopThree';
 import AutoAwesomeIcon from '@mui/icons-material/AutoAwesome';
 
