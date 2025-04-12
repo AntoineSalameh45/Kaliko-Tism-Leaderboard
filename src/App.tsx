@@ -24,6 +24,17 @@ function App() {
       <div className='bg-white-400'>
         <Leaderboard />
       </div>
+      <div>
+        <h3>
+          Wanna give it a try? Here's the 
+          &nbsp;
+          <AutoAwesomeIcon/> 
+          &nbsp;
+          <a href='https://embrace-autism.com/raads-r/'>test link</a>
+          &nbsp;
+          <AutoAwesomeIcon/> 
+        </h3>
+      </div>  
     </>
   )
 }
